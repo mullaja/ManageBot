@@ -46,7 +46,7 @@ pretty_errors
 TgCrypto
 Pyrogram
 youtube-dl
-youtube_search_python
+
 youtube_search
 asyncio
 dateparser==1.0.0
